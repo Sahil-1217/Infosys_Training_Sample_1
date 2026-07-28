@@ -1,5 +1,7 @@
 import random
 
+
+
 # Parent Class
 class Employee:
     def __init__(self, emp_id, name, salary):
